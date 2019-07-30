@@ -1,6 +1,6 @@
 # th.playtrack
 
-:bow_and_arrow: Personal play tracking of touhou games.
+:bow_and_arrow: Personal play tracking for first "GAME CLEAR" of touhou official games.
 
 ------
 
@@ -62,14 +62,14 @@
 
 ### th10 - 東方風神録 ～ Mountain of Faith
 
-|      | Easy | Normal                                              | Hard | Lunatic | Ex   |
-| ---- | ---- | --------------------------------------------------- | ---- | ------- | ---- |
-| 梦A  |      | [Clear](./Mountain of Faith/th10_Normal_ReimuA.rpy) |      |         |      |
-| 梦B  |      |                                                     |      |         |      |
-| 梦C  |      |                                                     |      |         |      |
-| 魔A  |      |                                                     |      |         |      |
-| 魔B  |      |                                                     |      |         |      |
-| 魔C  |      |                                                     |      |         |      |
+|                | Easy | Normal                                                       | Hard | Lunatic | Ex   |
+| -------------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
+| :yin_yang: 梦A |      | [![ReimuA-Normal](https://img.shields.io/badge/ReimuA--Normal-Clear-green.svg)](./Mountain of Faith/th10_Normal_ReimuA.rpy) |      |         |      |
+| 梦B            |      |                                                              |      |         |      |
+| 梦C            |      |                                                              |      |         |      |
+| 魔A            |      |                                                              |      |         |      |
+| 魔B            |      |                                                              |      |         |      |
+| 魔C            |      |                                                              |      |         |      |
 
 ------
 
@@ -92,14 +92,14 @@
 
 ### th12 - 東方星蓮船 ～ Undefined Fantastic Object
 
-|      | Easy | Normal                                                       | Hard | Lunatic | Ex   |
-| ---- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
-| 梦A  |      |                                                              |      |         |      |
-| 梦B  |      |                                                              |      |         |      |
-| 魔A  |      |                                                              |      |         |      |
-| 魔B  |      |                                                              |      |         |      |
-| 苗A  |      |                                                              |      |         |      |
-| 苗B  |      | [Clear](./Undefined Fantastic Object/th12_Normal_SanaeB.rpy) |      |         |      |
+|            | Easy | Normal                                                       | Hard | Lunatic | Ex   |
+| ---------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
+| 梦A        |      |                                                              |      |         |      |
+| 梦B        |      |                                                              |      |         |      |
+| 魔A        |      |                                                              |      |         |      |
+| 魔B        |      |                                                              |      |         |      |
+| 苗A        |      |                                                              |      |         |      |
+| :frog: ​苗B |      | [![SanaeB-Normal](https://img.shields.io/badge/SanaeB--Nomral-Clear-green.svg)](./Undefined Fantastic Object/th12_Normal_SanaeB.rpy) |      |         |      |
 
 ------
 
