@@ -92,14 +92,14 @@
 
 ### th12 - 東方星蓮船 ～ Undefined Fantastic Object
 
-|            | Easy | Normal                                                       | Hard | Lunatic | Ex   |
-| ---------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
-| 梦A        |      |                                                              |      |         |      |
-| 梦B        |      |                                                              |      |         |      |
-| 魔A        |      |                                                              |      |         |      |
-| 魔B        |      |                                                              |      |         |      |
-| 苗A        |      |                                                              |      |         |      |
-| :frog: ​苗B |      | [![SanaeB-Normal](https://img.shields.io/badge/SanaeB--Nomral-Clear-green.svg)](./Undefined Fantastic Object/th12_Normal_SanaeB.rpy) |      |         |      |
+|                | Easy | Normal                                                       | Hard | Lunatic | Ex   |
+| -------------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
+| :yin_yang: 梦A |      | [![ReimuA-Normal](https://img.shields.io/badge/ReimuA--Nomral-Clear-green.svg)](./Undefined Fantastic Object/th12_Normal_ReimuA.rpy) |      |         |      |
+| 梦B            |      |                                                              |      |         |      |
+| 魔A            |      |                                                              |      |         |      |
+| 魔B            |      |                                                              |      |         |      |
+| 苗A            |      |                                                              |      |         |      |
+| :frog: ​苗B     |      | [![SanaeB-Normal](https://img.shields.io/badge/SanaeB--Nomral-Clear-green.svg)](./Undefined Fantastic Object/th12_Normal_SanaeB.rpy) |      |         |      |
 
 ------
 
