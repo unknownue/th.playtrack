@@ -32,21 +32,6 @@
 
 
 
-### th07 - 東方妖々夢 ～ Perfect Cherry Blossom
-
-|      | Easy | Normal | Hard | Lunatic | Ex   |
-| ---- | ---- | ------ | ---- | ------- | ---- |
-| 梦A  |      |        |      |         |      |
-| 梦B  |      |        |      |         |      |
-| 魔A  |      |        |      |         |      |
-| 魔B  |      |        |      |         |      |
-| 咲A  |      |        |      |         |      |
-| 咲B  |      |        |      |         |      |
-
-------
-
-
-
 ### th08 - 東方永夜抄 ～ Imperishable Night
 
 |              | Easy | Normal | Hard | Lunatic | Ex   |
