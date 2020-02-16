@@ -47,14 +47,14 @@
 
 ### th10 - 東方風神録 ～ Mountain of Faith
 
-|                | Easy | Normal                                                       | Hard | Lunatic | Ex   |
-| -------------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
-| :yin_yang: 梦A |      | [![ReimuA-Normal](https://img.shields.io/badge/ReimuA--Normal-Clear-green.svg)](./Mountain of Faith/th10_Normal_ReimuA.rpy) |      |         |      |
-| 梦B            |      |                                                              |      |         |      |
-| 梦C            |      |                                                              |      |         |      |
-| 魔A            |      |                                                              |      |         |      |
-| 魔B            |      |                                                              |      |         |      |
-| 魔C            |      |                                                              |      |         |      |
+|                | Easy | Normal                                                      | Hard | Lunatic | Ex   |
+| -------------- | ---- | ----------------------------------------------------------- | ---- | ------- | ---- |
+| :yin_yang: 梦A |      | [ReimuA-Normal](./Mountain-of-Faith/th10-Normal-ReimuA.rpy) |      |         |      |
+| 梦B            |      |                                                             |      |         |      |
+| 梦C            |      |                                                             |      |         |      |
+| 魔A            |      |                                                             |      |         |      |
+| 魔B            |      |                                                             |      |         |      |
+| 魔C            |      |                                                             |      |         |      |
 
 ------
 
@@ -79,12 +79,12 @@
 
 |                | Easy | Normal                                                       | Hard | Lunatic | Ex   |
 | -------------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
-| :yin_yang: 梦A |      | [![ReimuA-Normal](https://img.shields.io/badge/ReimuA--Nomral-Clear-green.svg)](./Undefined Fantastic Object/th12_Normal_ReimuA.rpy) |      |         |      |
+| :yin_yang: 梦A |      | [ReimuA-Normal](./Undefined-Fantastic-Object/th12-Normal-ReimuA.rpy) |      |         |      |
 | 梦B            |      |                                                              |      |         |      |
 | 魔A            |      |                                                              |      |         |      |
 | 魔B            |      |                                                              |      |         |      |
 | 苗A            |      |                                                              |      |         |      |
-| :frog: ​苗B     |      | [![SanaeB-Normal](https://img.shields.io/badge/SanaeB--Nomral-Clear-green.svg)](./Undefined Fantastic Object/th12_Normal_SanaeB.rpy) |      |         |      |
+| :frog: ​苗B     |      | [SanaeB-Normal](th12-Normal-ReimuB.rpy)                      |      |         |      |
 
 ------
 
