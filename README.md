@@ -8,7 +8,7 @@
 
 |      | Easy | Normal                                                       | Hard | Lunatic | Ex   |
 | ---- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
-| 梦A  |      |                                                              |      |         |      |
+| 梦A  |      | [ReimuA-Normal](./The-Embodiment-of-Scarlet-Devil/th12-Normal-ReimuA.rpy) |      |         |      |
 | 梦B  |      | [ReimuB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-ReimuB.rpy) |      |         |      |
 | 魔A  |      |                                                              |      |         |      |
 | 魔B  |      | [MarisaB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-MarisaB.rpy) |      |         |      |
@@ -84,7 +84,7 @@
 | 魔A            |      |                                                              |      |         |      |
 | 魔B            |      |                                                              |      |         |      |
 | 苗A            |      |                                                              |      |         |      |
-| :frog: ​苗B     |      | [SanaeB-Normal](th12-Normal-ReimuB.rpy)                      |      |         |      |
+| :frog: ​苗B     |      | [SanaeB-Normal](./Undefined-Fantastic-Object/th12-Normal-SanaeB.rpy) |      |         |      |
 
 ------
 
