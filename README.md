@@ -6,12 +6,12 @@
 
 ### th06 - 東方紅魔郷 ～ the Embodiment of Scarlet Devil.
 
-|      | Easy | Normal                                                       | Hard | Lunatic | Ex   |
-| ---- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
-| 梦A  |      | [ReimuA-Normal](./The-Embodiment-of-Scarlet-Devil/th12-Normal-ReimuA.rpy) |      |         |      |
-| 梦B  |      | [ReimuB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-ReimuB.rpy) |      |         |      |
-| 魔A  |      |                                                              |      |         |      |
-| 魔B  |      | [MarisaB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-MarisaB.rpy) |      |         |      |
+|                | Easy | Normal                                                       | Hard | Lunatic | Ex   |
+| -------------- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
+| :yin_yang: 梦A |      | [ReimuA-Normal](./The-Embodiment-of-Scarlet-Devil/th12-Normal-ReimuA.rpy) |      |         |      |
+| :yin_yang: ​梦B |      | [ReimuB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-ReimuB.rpy) |      |         |      |
+| 魔A            |      |                                                              |      |         |      |
+| 魔B            |      | [MarisaB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-MarisaB.rpy) |      |         |      |
 
 ------
 
@@ -51,7 +51,7 @@
 | -------------- | ---- | ----------------------------------------------------------- | ---- | ------- | ---- |
 | :yin_yang: 梦A |      | [ReimuA-Normal](./Mountain-of-Faith/th10-Normal-ReimuA.rpy) |      |         |      |
 | 梦B            |      |                                                             |      |         |      |
-| 梦C            |      |                                                             |      |         |      |
+| :yin_yang: ​梦C |      | [ReimuC-Normal](./Mountain-of-Faith/th10-Normal-ReimuC.rpy) |      |         |      |
 | 魔A            |      |                                                             |      |         |      |
 | 魔B            |      |                                                             |      |         |      |
 | 魔C            |      |                                                             |      |         |      |
