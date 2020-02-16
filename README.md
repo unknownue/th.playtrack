@@ -6,12 +6,12 @@
 
 ### th06 - 東方紅魔郷 ～ the Embodiment of Scarlet Devil.
 
-|      | Easy | Normal             | Hard | Lunatic | Ex   |
-| ---- | ---- | ------------------ | ---- | ------- | ---- |
-| 梦A  |      |                    |      |         |      |
-| 梦B  |      |                    |      |         |      |
-| 魔A  |      |                    |      |         |      |
-| 魔B  |      |                    |      |         |      |
+|      | Easy | Normal                                                       | Hard | Lunatic | Ex   |
+| ---- | ---- | ------------------------------------------------------------ | ---- | ------- | ---- |
+| 梦A  |      |                                                              |      |         |      |
+| 梦B  |      | [ReimuB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-ReimuB.rpy) |      |         |      |
+| 魔A  |      |                                                              |      |         |      |
+| 魔B  |      | [MarisaB-Normal](./The-Embodiment-of-Scarlet-Devil/th6-Normal-MarisaB.rpy) |      |         |      |
 
 ------
 
